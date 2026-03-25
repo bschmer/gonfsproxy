@@ -1,0 +1,16 @@
+{
+  "__rpc_delay__": {
+    "READDIRPLUS": {
+      "default": {
+        "250": 1
+      }
+    }
+  },
+  "__rpc_drop__": {
+    "READDIRPLUS": {
+      "default": {
+        "10000": 1
+      }
+    }
+  }
+}

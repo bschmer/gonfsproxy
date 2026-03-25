@@ -1,0 +1,9 @@
+# Local runtime config
+policy.json
+
+# Local build output
+nfsproxy
+
+# Optional local test/coverage artifacts
+*.out
+coverage.txt
